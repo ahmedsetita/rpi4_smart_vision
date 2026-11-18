@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+snapshots/*.jpg
+known_faces/*.yml
+known_faces/*.jpg
