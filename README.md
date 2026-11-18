@@ -17,7 +17,7 @@
 
 ## 1. التشغيل على اللابتوب الآن
 ```bash
-cd /home/ahmed/.gemini/antigravity/scratch/rpi4_smart_vision
+cd ~/rpi4_smart_vision
 ./run_laptop.sh
 ```
 
